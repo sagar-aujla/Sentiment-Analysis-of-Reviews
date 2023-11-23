@@ -5,20 +5,21 @@ Please cite the paper if you want to use it :)
 
 It contains sentences labelled with positive or negative sentiment, extracted from reviews of products, movies, and restaurants
 
-=======
-Format:
+# Data Format
 =======
 sentence \t score \n
 
 
-=======
-Details:
+
+# Details:
 =======
 Score is either 1 (for positive) or 0 (for negative)	
 The sentences come from three different websites/fields:
 
 imdb.com
+
 amazon.com
+
 yelp.com
 
 For each website, there exist 500 positive and 500 negative sentences. Those were selected randomly for larger datasets of reviews. 
