@@ -1,10 +1,10 @@
 # Sentiment Analysis of Reviews
 
-The dataset used for this work were created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015.
+The datasets used for this work were created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015.
 
 Please cite the paper if you want to use it :)
 
-It contains sentences labelled with positive or negative sentiment, extracted from reviews of products, movies, and restaurants
+It contains sentences labeled with positive or negative sentiment, extracted from reviews of products, movies, and restaurants
 
 # Data Format
 sentence \t score \n
