@@ -8,8 +8,11 @@ It contains sentences labeled with positive or negative sentiment, extracted fro
 
 # Models 
 This project implements sentiment analysis using a Hugging Face Transformer model, with PyTorch as the underlying deep learning framework. It compares it to a custom-trained deep learning model (LSTM model with attention). Tokenization and sentence padding are done explicitly for the LSTM model and are done via automatically for the HUggingFace Model.
-Results with the HuggingFace Model
 
+# Results
+Results with the HuggingFace Model are shown below for movie reviews:
+
+![Results](results.png)
 
 
 # Data Format
